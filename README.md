@@ -6,7 +6,7 @@ Quick and easy translation of your next.js applications
 ## Installation
 
 ```bash
-npm i uselanguagenext
+npm i use-language-next
 ```
 
 ## Usage/Examples
