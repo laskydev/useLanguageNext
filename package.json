@@ -24,7 +24,7 @@
     "url": "https://github.com/laskydev/useLanguageNext/issues"
   },
   "homepage": "https://github.com/laskydev/useLanguageNext#readme",
-  "dependencies": {
+  "devDependencies": {
     "next": "^13.0.6",
     "react": "^18.2.0"
   }
