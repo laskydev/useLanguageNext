@@ -2,9 +2,8 @@
   "name": "use-language-next",
   "version": "0.2.12",
   "description": "Quick and easy translation of your next.js applications",
-  "main": "index.js",
-  "module": "index.js",
-  "type": "module",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -25,7 +24,6 @@
   },
   "homepage": "https://github.com/laskydev/useLanguageNext#readme",
   "devDependencies": {
-    "next": "^13.0.6",
-    "react": "^18.2.0"
+    "next": "^13.0.6"
   }
 }
