@@ -17,8 +17,10 @@ function App() {
   return (
       <p>
         {handleLanguage({
-            'ES-MX': 'Hola Mundo', 
-            'EN-US': 'Hello World'
+            'es-MX': 'Hola Mundo', 
+            'en-US': 'Hello World',
+            'fr': 'Bonjour Monde
+'
         })}
       </p>
   )
@@ -30,7 +32,7 @@ The key you must use is the same as the one you configured in the i18 of the nex
 ```javascript
 module.exports = {
   i18n: {
-    locales: ['en-US', 'fr', 'nl-NL'], //Use this values for key in handleLanguage parameters
+    locales: ['en-US', 'es-MX' , 'fr'], //Use this values for key in handleLanguage parameters
     defaultLocale: 'en-US',
   },
 }
