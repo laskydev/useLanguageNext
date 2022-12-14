@@ -1,6 +1,6 @@
 {
   "name": "uselanguagenext",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Quick and easy translation of your next.js applications",
   "main": "index.js",
   "scripts": {
