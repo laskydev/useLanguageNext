@@ -3,8 +3,11 @@
 
 Quick and easy translation of your next.js applications
 
+## Installation
 
-
+```bash
+npm i useLanguageNext
+```
 
 ## Usage/Examples
 
