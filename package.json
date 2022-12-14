@@ -1,0 +1,25 @@
+{
+  "name": "uselanguagenext",
+  "version": "0.1.0",
+  "description": "Quick and easy translation of your next.js applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laskydev/useLanguageNext.git"
+  },
+  "keywords": [
+    "translate",
+    "internationalization",
+    "i18",
+    "nextjs"
+  ],
+  "author": "laskydev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laskydev/useLanguageNext/issues"
+  },
+  "homepage": "https://github.com/laskydev/useLanguageNext#readme"
+}
