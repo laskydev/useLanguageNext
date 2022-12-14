@@ -1,8 +1,9 @@
 {
-  "name": "uselanguagenext",
+  "name": "use-language-next",
   "version": "0.2.5",
   "description": "Quick and easy translation of your next.js applications",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
