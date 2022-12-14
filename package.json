@@ -1,6 +1,6 @@
 {
   "name": "use-language-next",
-  "version": "0.2.12",
+  "version": "0.2.13",
   "description": "Quick and easy translation of your next.js applications",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
