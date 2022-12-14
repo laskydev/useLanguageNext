@@ -12,7 +12,7 @@ Quick and easy translation of your next.js applications
 import useLanguage from 'useLanguageNext'
 
 function App() {
-  const {handleLanguage} = useLanguage()
+  const { handleLanguage } = useLanguage()
 
   return (
       <p>
