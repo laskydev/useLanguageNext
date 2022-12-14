@@ -19,8 +19,7 @@ function App() {
         {handleLanguage({
             'es-MX': 'Hola Mundo', 
             'en-US': 'Hello World',
-            'fr': 'Bonjour Monde
-'
+            'fr': 'Bonjour Monde'
         })}
       </p>
   )
