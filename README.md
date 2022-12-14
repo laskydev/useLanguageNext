@@ -6,13 +6,13 @@ Quick and easy translation of your next.js applications
 ## Installation
 
 ```bash
-npm i useLanguageNext
+npm i uselanguagenext
 ```
 
 ## Usage/Examples
 
 ```javascript
-import useLanguage from 'useLanguageNext'
+import useLanguage from 'uselanguagenext'
 
 function App() {
   const { handleLanguage } = useLanguage()
