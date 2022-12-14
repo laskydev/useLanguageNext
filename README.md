@@ -12,7 +12,7 @@ npm i use-language-next
 ## Usage/Examples
 
 ```javascript
-import useLanguage from 'uselanguagenext'
+import useLanguage from 'use-language-next'
 
 function App() {
   const { handleLanguage } = useLanguage()
