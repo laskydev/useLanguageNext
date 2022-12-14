@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/laskydev/useLanguageNext/issues"
   },
-  "homepage": "https://github.com/laskydev/useLanguageNext#readme"
+  "homepage": "https://github.com/laskydev/useLanguageNext#readme",
+  "dependencies": {
+    "next": "^13.0.6"
+  }
 }
