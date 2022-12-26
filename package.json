@@ -5,7 +5,7 @@
   "main": "./dist/index.js",
   "module": "./dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "update-package": "npm version patch && npm publish"
   },
   "repository": {
@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/laskydev/useLanguageNext#readme",
   "devDependencies": {
+    "jest": "^29.3.1",
     "next": "^13.0.6"
   }
 }
