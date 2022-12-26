@@ -1,2 +1,3 @@
 type handleLanguage = (handleLanguage: object) => string;
-export const useLanguage: () => handleLanguage;
+type UseLanguage = () => {handleLanguage: handleLanguage};
+export const useLanguage: UseLanguage;
