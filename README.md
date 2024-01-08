@@ -3,6 +3,8 @@
 
 Quick and easy translation of your next.js applications
 
+Only works on pages router.
+
 ## Installation
 
 ```bash
